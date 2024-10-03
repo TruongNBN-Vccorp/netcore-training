@@ -1,0 +1,37 @@
+# Binaries
+**/bin/
+**/obj/
+
+# NodeJS
+/node_modules
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+NuGet.config
+
+# Visual Studio files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+.idea/*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# User-specific files
+*.rsuser
+*.user
+*.swp
